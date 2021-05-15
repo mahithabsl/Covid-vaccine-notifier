@@ -1,7 +1,7 @@
 # Covid Vaccine Notifier #
 A Python script that notifies users with vaccine availability slots for the upcoming 3 days using telegram bot every 5 minutes 
 
-## Creds needed for using Telegram bot ##
+## Creds required for using Telegram bot ##
 
  1. Token id - Generate token id of a bot on telegram using BotFather
 
