@@ -8,7 +8,9 @@ A Python script that notifies users with vaccine availability slots for the upco
  2. Chat id - Generate chat id of a group chat after adding your bot to the group chat
 
 ## Installation ##
+```
 pip install requests schedule
+```
 
 ## Run ##
 ```
